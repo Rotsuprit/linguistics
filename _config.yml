@@ -83,12 +83,12 @@ author:
   name             : "Rotsuprit Saengthong"
   avatar           : "9634F156-D125-4188-8ADF-EE496E87D0E9.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Kansas, USA"
   employer         :
   pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : ""
+  email            : "rotsuprit@ku.edu"
+  researchgate     :  # example: ""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://rotsuprit.github.io/rotsuprit.s//"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : ""
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
