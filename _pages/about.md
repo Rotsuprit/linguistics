@@ -13,3 +13,7 @@ I am currently an MA student in [Linguistics at the University of Kansas (KU)](h
 Before coming to KU, I pursued a bachelor in English and Communication at Ubon Ratchathani University where I was introduced to Generative Syntax by Prof. Supath Kookiatikul. 
 
 **Research Languages:** Thai and Lao
+
+# Projects
+  - Control & Raising in Thai
+  - Adverb reduplication in Thai imperatives
