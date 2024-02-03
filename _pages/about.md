@@ -14,6 +14,6 @@ Before coming to KU, I pursued a bachelor in English and Communication at Ubon R
 
 **Research Languages:** Thai and Lao
 
-## Projects
+## Current projects
   - Control & Raising in Thai
   - Adverb reduplication in Thai imperatives
