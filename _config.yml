@@ -32,7 +32,8 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages
+  โรจน์ทรัพย์ฤทธิ์ แสงทอง"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
