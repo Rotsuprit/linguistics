@@ -16,4 +16,4 @@ Before coming to KU, I pursued a bachelor in English and Communication at Ubon R
 
 ## Current projects
   - Control & Raising in Thai
-  - Adverb reduplication in Thai imperatives
+  - Adverb reduplication in Thai imperatives (Allomorphic Sensitivity)
