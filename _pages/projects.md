@@ -21,5 +21,5 @@ Object control in Thai exhibits two distinct types of complement clauses based o
 
 ## Allomorphic sensitivity
 I look at the data in manner adverb reduplication in Thai, which is required in positive imperative, but prohibited in the negative counterpart. The examples are below. 
-  1. Walk slowly-slowly/*slowly        (Positive)
-  2. NEG walk slowly/*slowly-slowly    (Negative) 
+  1. Walk slowly-slowly/*slowly - เดินช้าๆ     (Positive)
+  2. NEG walk slowly/*slowly-slowly - อย่าเดินช้า    (Negative) 
