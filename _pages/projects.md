@@ -23,5 +23,8 @@ This project investigates variations in object control in Thai, which are instan
 
 ## Allomorphic sensitivity
 I look at the data in manner adverb reduplication in Thai, which is required in positive imperative, but prohibited in the negative counterpart. The examples are below. 
+
   1. Walk slowly-slowly/*slowly - เดินช้าๆ     (Positive)
-  2. NEG walk slowly/*slowly-slowly - อย่าเดินช้า    (Negative) 
+  2. NEG walk slowly/*slowly-slowly - อย่าเดินช้า    (Negative)
+
+The aim of this project is to examine the interaction between the trigger and allomorphy, presented here in the form of reduplication. The question to be addressed is whether allomorphic sensitivity in such environments aligns with the Adjacency Constraint, which posits that the trigger must be structurally or linearly adjacent to the allomorphy.
