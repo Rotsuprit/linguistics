@@ -4,12 +4,12 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/    
-
- - title: "Projects"
-    url: /cv.md/  
+    url: /talks/     
   
   - title: "CV"
     url: /files/CV_Rotsuprit.pdf
+
+  - tile: "Project"
+    url: /project/
     
  
