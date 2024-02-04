@@ -12,7 +12,7 @@ redirect_from:
 ## Object Control in Thai
 
 This project investigates variations in object control in Thai, which are instantiated below.
-  1. I force Sam eat pizza
+  1. I force Sam eat pizza      ฉันบังคับแซมกินพิซซ่า 
   2. I force Sam hây eat pizza
   3. I force hây Sam eat pizza
 
