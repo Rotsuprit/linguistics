@@ -7,7 +7,7 @@ main:
     url: /talks/    
 
  - title: "Projects"
-    url: /cv/  
+    url: /cv.md/  
   
   - title: "CV"
     url: /files/CV_Rotsuprit.pdf
