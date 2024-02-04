@@ -6,8 +6,6 @@ main:
   - title: "Presentations"
     url: /talks/    
 
- - title: "Projects"
-    url: /about/
   
   - title: "CV"
     url: /files/CV_Rotsuprit.pdf
