@@ -12,7 +12,7 @@ I am currently an MA student in [Linguistics at the University of Kansas (KU)](h
 
 Before coming to KU, I pursued a bachelor in English and Communication at Ubon Ratchathani University, Thailand, where I was introduced to Generative Syntax by Supath Kookiattikul, and involved in multiple research projects led by [Saowanee Alexander.](http://info.la.ubu.ac.th/bio/cv.asp?id=145) 
 
-Research interests: Syntax, Morphology, Semantics
+**Research interests:** Syntax, Morphology, Semantics
 **Research Languages:** Thai and Lao
 
 ## Current projects
