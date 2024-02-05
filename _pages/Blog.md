@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /projects/
+permalink: /Blog/
 author_profile: true
 redirect_from:
-  - /Projects
+  - /Blog
 ---
 
 {% include base_path %}
