@@ -1,6 +1,6 @@
 
 # Tips for Writing a Statement of Purpose in Linguistics
-
+ 
 During the preparation of my application to PhD programs in Linguistics, I sought advice from various professors and current PhD students. While there is no one-size-fits-all formula for crafting an outstanding Statement of Purpose (SOP) due to the individualistic nature of communication styles and persuasive techniques, there are common elements found in most effective SOPs. In the following, I will outline key areas to emphasize in your SOP.
 
 ## Major Points to Address
