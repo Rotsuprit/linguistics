@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## [Tips for Writing a Statement of Purpose in Linguistics]
+## [Tips for Writing a Statement of Purpose in Linguistics](https://rotsuprit.github.io/linguistics/_pages/sop_tips.md)
+
+
 
 
 
