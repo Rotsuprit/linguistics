@@ -19,7 +19,7 @@ Before coming to KU, I pursued a bachelor's degree in English and Communication 
 **Research Languages:** Thai and Lao
 
 ## News!
-  - In fall 2024, I will begin my PhD at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
+  - In fall 2024, I will begin my PhD in Linguistics at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
     
 ## Current projects
   - Control & Raising in Thai
