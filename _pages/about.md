@@ -18,7 +18,7 @@ Before coming to KU, I pursued a bachelor's degree in English and Communication 
 
 **Research Languages:** Thai and Lao
 
-**Contact** rotsuprit@ku.edu or rotsupri@mit.edu 
+**Contact:** rotsuprit@ku.edu or rotsupri@mit.edu 
 
 ## News!
   - In fall 2024, I will begin my PhD in Linguistics at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
