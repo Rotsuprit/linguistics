@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently an MA student in [Linguistics at the University of Kansas (KU)](https://linguistics.ku.edu), where I am supervised by [John Gluckman](https://www.jgluckman.com/index.html). I work on generative **syntax** and its interaction with morphology and semantics. My master's thesis is on Object Control in Thai.
+I am currently an MA student in [Linguistics at the University of Kansas (KU)](https://linguistics.ku.edu), where I am supervised by [John Gluckman](https://www.jgluckman.com/index.html). I work on generative **syntax** and its interaction with morphology and semantics. I am particularly interested in long-distance dependencies. My master's thesis is on Object Control in Thai.
 
 Before coming to KU, I pursued a bachelor's degree in English and Communication at Ubon Ratchathani University, Thailand. During my time there, I was introduced to Generative Syntax by Supath Kookiattikul and was actively involved in multiple research projects led by [Saowanee Alexander.](http://info.la.ubu.ac.th/bio/cv.asp?id=145) 
 
@@ -24,5 +24,6 @@ Before coming to KU, I pursued a bachelor's degree in English and Communication 
   - In fall 2024, I will begin my PhD in Linguistics at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
     
 ## Current projects
+  - _Tough_-constructions
   - Control & Raising in Thai
   - Adverb reduplication in Thai imperatives (Allomorphic Sensitivity)
