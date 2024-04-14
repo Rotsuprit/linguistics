@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## [Tips for Writing a Statement of Purpose in Linguistics](url:sop_tips.md) 
 
 
 
