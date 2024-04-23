@@ -20,7 +20,7 @@ I am currently an MA student in [Linguistics at the University of Kansas (KU)](h
 **Contact:** [rotsuprit@ku.edu]() or [rotsupri@mit.edu]() 
 
 ## News!
-  - In fall 2024, I will begin my PhD in Linguistics at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
+  - In September 2024, I will begin my PhD in Linguistics at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
     
 ## Current projects
   - _Tough_-constructions
