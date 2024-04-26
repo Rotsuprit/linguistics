@@ -14,6 +14,7 @@ I am a syntactician. I am currently an MA student in [Linguistics at the Univers
 
 
 **Research interests:** Syntax
+
 **Research Languages:** Thai and Lao
 
 **Contact:** [rotsuprit@ku.edu]() or [rotsupri@mit.edu]() 
