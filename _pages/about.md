@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a syntactician. I'm a first-year PhD student in [Linguistics at the Massachusetts Institute of Technology (MIT)](https://linguistics.mit.edu). Before joining MIT, I studied for a master's degree [Linguistics at the University of Kansas (KU)](https://linguistics.ku.edu), where I am supervised by [John Gluckman](https://www.jgluckman.com/index.html). I work on generative **syntax**. I am particularly interested in long-distance dependencies and size of non-finite clauses. 
+I am a syntactician. I'm a first-year PhD student in [Linguistics at the Massachusetts Institute of Technology (MIT)](https://linguistics.mit.edu). Before joining MIT, I earned a master's degree in [Linguistics at the University of Kansas (KU)](https://linguistics.ku.edu), where I am supervised by [John Gluckman](https://www.jgluckman.com/index.html). I work on generative **syntax**. I am particularly interested in long-distance dependencies and size of non-finite clauses. 
 
 
 
