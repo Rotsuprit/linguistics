@@ -17,7 +17,7 @@ I am a syntactician. I'm a first-year PhD student in [Linguistics at the Massach
 
 **Research Languages:** Thai and Lao
 
-**Contact:** [rotsuprit@ku.edu]() or [rotsupri@mit.edu]() 
+**Contact:**  [rotsupri@mit.edu]() 
 
 ## News!
   - In September 2024, I will begin my PhD in Linguistics at the [Massachusetts Institute of Technology (MIT).](https://linguistics.mit.edu)
