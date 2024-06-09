@@ -25,3 +25,4 @@ I am Ph.D student in [Linguistics at the Massachusetts Institute of Technology (
   - _Tough_-constructions
   - Control & Raising in Thai
 
+Originally, I am from Ubon Ratchathani, the province in the Northeast of Thailand bordering Lao and Cambodia. I grew up speaking both Thai and Lao. 
