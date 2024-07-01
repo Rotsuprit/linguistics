@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Ph.D student in [Linguistics at the Massachusetts Institute of Technology (MIT)](https://linguistics.mit.edu). Before joining MIT, I earned a master's degree in [Linguistics at the University of Kansas (KU)](https://linguistics.ku.edu), where I was supervised by [John Gluckman](https://www.jgluckman.com/index.html). My research is on **syntax**. I am particularly interested in long-distance dependencies and size of non-finite clauses. 
+I am a Ph.D student in [Linguistics at the Massachusetts Institute of Technology (MIT)](https://linguistics.mit.edu). Before joining MIT, I earned a master's degree in [Linguistics at the University of Kansas (KU)](https://linguistics.ku.edu), where I was supervised by [John Gluckman](https://www.jgluckman.com/index.html). My research is on **syntax**. I am particularly interested in long-distance dependencies and size of non-finite clauses. 
 
 
 
@@ -25,4 +25,4 @@ I am Ph.D student in [Linguistics at the Massachusetts Institute of Technology (
   - _Tough_-constructions
   - Control & Raising in Thai
 
-Originally, I am from Ubon Ratchathani, the province in the Northeast of Thailand bordering Lao and Cambodia. I grew up speaking both Thai and Lao. 
+I am originally from Ubon Ratchathani, a province in northeastern Thailand bordering Laos and Cambodia. I grew up speaking both Thai and Lao. 
